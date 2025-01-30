@@ -1,0 +1,23 @@
+<!-- in command prompt run C:\vueapps\ct216Project>npm run dev    
+
+After running npm run dev:
+
+    Vite will start the development server.
+    Open your browser and navigate to http://localhost:xxxxx    where x is number displayed in terminal 
+    You should see your Vue app running there.
+
+
+    SFC Styling refers to the CSS that you write inside the <style> section of a Vue Single-File Component. It allows you to scope styles to a specific component, avoiding global CSS conflicts, and makes it easier to maintain styles in a modular way.
+
+    Bootstrap is a popular open-source front-end framework that helps developers create responsive and visually appealing websites and web applications quickly and efficiently. It provides pre-designed CSS, JavaScript, and components that can be used to build websites without having to write all the code from scratch.
+
+    API stands for Application Programming Interface. It is a set of rules and protocols that allows different software applications to communicate with each other. An API defines the methods and data formats that applications can use to request and exchange information, enabling different systems to interact seamlessly.
+
+    AJAX stands for Asynchronous JavaScript and XML. It is a technique used in web development to create dynamic and interactive web pages by allowing parts of a webpage to update without reloading the entire page. This is commonly used in Web 2.0 applications to improve the user experience by making them more responsive and fluid.
+
+    v-model creates two-way data binding between an HTML element (like input, textarea, or select) and a Vue data property.
+    When the user interacts with the element, the corresponding data variable is automatically updated, and if the data variable is updated, the element's value will reflect that change.
+    It simplifies working with forms and inputs by reducing the need for manually managing updates to both the UI and the data.
+
+    Firebase’s onCall functions are more convenient when working within the Firebase ecosystem, especially if you're building apps that rely on Firebase Authentication and want to avoid managing CORS or HTTP methods manually. They provide a cleaner, more integrated experience for developers who are building Firebase-based apps. On the other hand, onRequest functions are better suited when you need full control over HTTP methods and routing or need to integrate with third-party services.
+-->
